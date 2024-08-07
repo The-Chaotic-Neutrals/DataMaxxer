@@ -1,0 +1,5 @@
+polars
+datasets
+hf_transfer
+wordcloud
+matplotlib
